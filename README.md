@@ -200,5 +200,6 @@ js文件内，主要新增 gainLogPrefix方法和 gainLogPrefix_Module方法，�
 本次测试项目和js脚本获取方式：
 
 1、关注公众号"逆向APP"，回复"frida追踪方法02"
+![](https://user-gold-cdn.xitu.io/2019/6/26/16b9397aa15a907a?w=258&h=258&f=jpeg&s=27708)
 
 2、[github地址](https://github.com/luoyanbei/android_frida_trace_myTrace)，可以帮忙点个 Star
